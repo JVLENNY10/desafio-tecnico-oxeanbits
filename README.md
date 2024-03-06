@@ -7,5 +7,5 @@ Aqui estão as instruções para rodar o progeto:
   <li>Execute npm install;</li>
   <li>Apaque .exemplo do nome do aquivo .env;</li>
   <li>Execute npm start para rodar o projeto;</li>
-  <li>Execute npm test para rodar os testes do projeto;</li>
+  <li>Execute npm test para rodar os testes do projeto</li>
 </ol>
